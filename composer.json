@@ -1,13 +1,13 @@
 {
-  "name": "mohammedmanssour/form-request-tester",
+  "name": "dit-werkt/form-request-tester",
   "version": "1.0.0",
   "description": "a collection of test helpers that help with testing form requests",
   "license": "MIT",
   "authors": [
     {
-      "name": "Mohammed Manssour",
-      "email": "manssour.mohammed@gmail.com",
-      "homepage": "https://mohammedmanssour.me"
+      "name": "Dit werkt",
+      "email": "info@ditwerkt.nl",
+      "homepage": "https://www.dit-werkt.nl"
     }
   ],
   "autoload": {
