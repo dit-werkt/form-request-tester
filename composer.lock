@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b8166863f8359984462c9f4d3f7d332b",
+    "content-hash": "ce4bc2b57da3f7fc843392c0630c6619",
     "packages": [],
     "packages-dev": [
         {
@@ -1054,16 +1054,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.40.1",
+            "version": "2.40.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "d9a76d8b7eb0f97cf3a82529393245212f40ba3b"
+                "reference": "6c7646154181013ecd55e80c201b9fd873c6ee5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/d9a76d8b7eb0f97cf3a82529393245212f40ba3b",
-                "reference": "d9a76d8b7eb0f97cf3a82529393245212f40ba3b",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/6c7646154181013ecd55e80c201b9fd873c6ee5d",
+                "reference": "6c7646154181013ecd55e80c201b9fd873c6ee5d",
                 "shasum": ""
             },
             "require": {
@@ -1139,7 +1139,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-09-23T08:17:37+00:00"
+            "time": "2020-09-11T19:00:58+00:00"
         },
         {
             "name": "opis/closure",
